@@ -1,0 +1,36 @@
+sach1
+Toan roi rac
+Do Van Nhon
+DHQG-HCM
+150000
+2014
+211
+2/11/2021
+0
+sach2
+CTDL & GT
+Duong Anh Duc
+DHQG-HCM
+150000
+2010
+218
+2/11/2021
+4
+sach3
+OOP
+Truong Hai Bang
+DHQG-HCM
+22000
+2011
+213
+2/11/2021
+0
+sach4
+7 Vien Ngoc Rong
+Toriyama Akira
+Kim Dong
+22000
+2009
+220
+2/11/2021
+7
